@@ -1,15 +1,15 @@
 import React from 'react'
 import "./Footer.css"
-const Footer = ()=>{
+const Footer = () => {
   return (
     <div className='footer-container'>
-        <a 
+      <a
         target="__blank"
         className='footer-link'
         href=""
         rel="noreferrer">
-            See My Profile
-        </a>
+        See My Profile
+      </a>
     </div>
   )
 }
